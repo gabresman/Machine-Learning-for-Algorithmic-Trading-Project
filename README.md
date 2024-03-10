@@ -8,8 +8,6 @@ Once predictions are made, ensembles between different algorithms are explored t
 
 These results are obtained through preprocessing techniques such as Wavelet Transform, Normalization, and Stacked Autoencoders, whose contribution to predictive capability is compared and discussed across different algorithms.
 
----
 ***
----
 
-The report of this research is written in Spanish. The .ipynb file of the 'English' folder includes comments in English.
+The report of this research is written in Spanish. The .ipynb file of the 'English' folder includes comments in English. If you don't speak Spanish please check this [folder](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/tree/main/English) directly.
