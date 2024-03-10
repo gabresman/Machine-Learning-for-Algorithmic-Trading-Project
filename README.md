@@ -10,4 +10,4 @@ These results are obtained through preprocessing techniques such as Wavelet Tran
 
 ***
 
-The [report](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/blob/main/ML4T%20report.pdf) of this research is written in Spanish. The [.ipynb file](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/blob/main/English/Machine_Learning_for_Algorithmic_Trading_ENG.ipynb) of the 'English' folder includes comments in English. If you don't speak Spanish please check this [folder](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/tree/main/English) directly.
+The [report](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/blob/main/ML4T%20report.pdf) of this research is written in Spanish. The [.ipynb file](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/blob/main/English/Machine_Learning_for_Algorithmic_Trading_GIT_ENG.ipynb) of the 'English' folder includes comments in English. If you don't speak Spanish please check this [folder](https://github.com/gabresman/Machine-Learning-for-Algorithmic-Trading-Project/tree/main/English) directly.
