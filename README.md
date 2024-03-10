@@ -7,3 +7,9 @@ During the model training and evaluation phase, the predictive capability of alg
 Once predictions are made, ensembles between different algorithms are explored to improve predictive capability and reduce risk. Finally, a model is constructed by assembling the K-Nearest Neighbors, Extreme Gradient Boosting, and Random Forest algorithms, generating a return of 155.60% between 2021 and 2023, during a period when the NASDAQ Composite fell by -6.41%.
 
 These results are obtained through preprocessing techniques such as Wavelet Transform, Normalization, and Stacked Autoencoders, whose contribution to predictive capability is compared and discussed across different algorithms.
+
+---
+***
+---
+
+The report of this research is written in Spanish. The .ipynb file of the 'English' folder includes comments in English.
